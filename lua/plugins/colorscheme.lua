@@ -8,6 +8,11 @@ return {
       -- colorscheme = "tokyonight",
       colorscheme = "rose-pine",
       -- colorscheme = "solarized-osaka",
+      transparent = true,
+      styles = {
+        sidebars = "transparent",
+        floats = "transparent",
+      },
     },
   },
 }
